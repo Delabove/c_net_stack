@@ -1,0 +1,12 @@
+/Users/delayne/Projects/c_net_stack/c_net_stack/bin/Debug/netcoreapp3.1/c_net_stack.deps.json
+/Users/delayne/Projects/c_net_stack/c_net_stack/bin/Debug/netcoreapp3.1/c_net_stack.runtimeconfig.json
+/Users/delayne/Projects/c_net_stack/c_net_stack/bin/Debug/netcoreapp3.1/c_net_stack.runtimeconfig.dev.json
+/Users/delayne/Projects/c_net_stack/c_net_stack/bin/Debug/netcoreapp3.1/c_net_stack.dll
+/Users/delayne/Projects/c_net_stack/c_net_stack/bin/Debug/netcoreapp3.1/c_net_stack.pdb
+/Users/delayne/Projects/c_net_stack/c_net_stack/obj/Debug/netcoreapp3.1/c_net_stack.csprojAssemblyReference.cache
+/Users/delayne/Projects/c_net_stack/c_net_stack/obj/Debug/netcoreapp3.1/c_net_stack.AssemblyInfoInputs.cache
+/Users/delayne/Projects/c_net_stack/c_net_stack/obj/Debug/netcoreapp3.1/c_net_stack.AssemblyInfo.cs
+/Users/delayne/Projects/c_net_stack/c_net_stack/obj/Debug/netcoreapp3.1/c_net_stack.csproj.CoreCompileInputs.cache
+/Users/delayne/Projects/c_net_stack/c_net_stack/obj/Debug/netcoreapp3.1/c_net_stack.dll
+/Users/delayne/Projects/c_net_stack/c_net_stack/obj/Debug/netcoreapp3.1/c_net_stack.pdb
+/Users/delayne/Projects/c_net_stack/c_net_stack/obj/Debug/netcoreapp3.1/c_net_stack.genruntimeconfig.cache

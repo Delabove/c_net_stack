@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c_net_stack", "c_net_stack\c_net_stack.csproj", "{60192BB1-0971-4F14-8F60-5F127AD8DD15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c_net_stack_test", "c_net_stack_test\c_net_stack_test.csproj", "{4D8D627F-E065-4EFF-8267-A38FC2611A2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60192BB1-0971-4F14-8F60-5F127AD8DD15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60192BB1-0971-4F14-8F60-5F127AD8DD15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60192BB1-0971-4F14-8F60-5F127AD8DD15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60192BB1-0971-4F14-8F60-5F127AD8DD15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D8D627F-E065-4EFF-8267-A38FC2611A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D8D627F-E065-4EFF-8267-A38FC2611A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D8D627F-E065-4EFF-8267-A38FC2611A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D8D627F-E065-4EFF-8267-A38FC2611A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
