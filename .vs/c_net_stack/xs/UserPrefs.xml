@@ -1,14 +1,36 @@
-﻿<Properties StartupConfiguration="{60192BB1-0971-4F14-8F60-5F127AD8DD15}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="c_net_stack_test/UnitTest1.cs">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{60192BB1-0971-4F14-8F60-5F127AD8DD15}|Default">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="c_net_stack/DelayneList.cs" Line="11" Column="1" />
-      <File FileName="c_net_stack_test/UnitTest1.cs" Line="23" Column="56" NotebookId="1" />
+      <File FileName="c_net_stack/DelayneList.cs" Line="16" Column="21" NotebookId="1" />
+      <File FileName="c_net_stack_test/UnitTest1.cs" Line="22" Column="19" NotebookId="2" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="c_net_stack" expanded="True">
+            <Node name="c_net_stack" expanded="True" />
+            <Node name="c_net_stack_test" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="c_net_stack" expanded="True" selected="True">
+            <Node name="c_net_stack_test" expanded="True">
+              <Node name="c_net_stack_test" expanded="True">
+                <Node name="DelayneListTests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.c__net__stack PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.c__net__stack__test FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -3,16 +3,17 @@ namespace c_net_stack
 {
     public class DelayneList
     {
+        int count = 0;
 
-   
-
-        public bool IsEmpty
+        public int Size()
         {
-            get
-            {
-                return true;
-            }
+            return count;
+            
         }
-      
+
+        public void add(int v)
+        {
+            count++;
+        }
     }
 }

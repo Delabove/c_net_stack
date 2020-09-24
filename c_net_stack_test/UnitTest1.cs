@@ -14,17 +14,29 @@ namespace c_net_stack_test
             list = new DelayneList();
         }
 
-        //push //pop //isEmpty //display //peek
+        //add //remove //size  //get 
 
 
-        //Red //Green //Refactor
+        //Red
+        //Green
+        //Refactor
 
         //simplest test first 
 
         [TestMethod]
-        public void IsEmpty_OnInstance_ShouldReturnTrue()
+        public void Size_OnInstance_ShouldReturnZero()
         {
-            Assert.IsTrue(list.IsEmpty);
+            Assert.AreEqual(0, list.Size());
         }
+
+
+        [TestMethod]
+        public void Size_AddOneElement_ShouldReturn1()
+        {
+            list.add(1);
+            Assert.AreEqual(1, list.Size());
+        }
+
+
     }
 }
