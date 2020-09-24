@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/delayne/.dotnet/store/|arch|/|tfm|",
+      "/Users/delayne/.nuget/packages"
+    ]
+  }
+}

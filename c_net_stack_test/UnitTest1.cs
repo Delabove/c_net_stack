@@ -6,7 +6,7 @@ namespace c_net_stack_test
     [TestClass]
     public class DelayneListTests
     {
-        DelayneList list;
+        private DelayneList list;
 
         [TestInitialize]
         public void Setup()
@@ -14,11 +14,17 @@ namespace c_net_stack_test
             list = new DelayneList();
         }
 
+        //push //pop //isEmpty //display //peek
 
+
+        //Red //Green //Refactor
+
+        //simplest test first 
 
         [TestMethod]
-        public void TestMethod1()
+        public void IsEmpty_OnInstance_ShouldReturnTrue()
         {
+            Assert.IsTrue(list.IsEmpty);
         }
     }
 }
